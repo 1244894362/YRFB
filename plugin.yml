@@ -1,0 +1,13 @@
+name: YRFB
+main: com.yirankuma.yrfb.Main
+version: "1.1.3"
+api: [1.0.0]
+author: yirankuma
+
+commands:
+  yrnpc:
+    permission: "npc"
+    usage: "npc"
+permissions:
+  npc:
+    default: op
